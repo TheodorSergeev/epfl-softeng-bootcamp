@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="main_text">Hello, human.</string>
-    <string name="button_text">CLICK ME</string>
+    <string name="button_text">Display greeting</string>
+    <string name="weather_button_text">What\'s the weather?</string>
 </resources>

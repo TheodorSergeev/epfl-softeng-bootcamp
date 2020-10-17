@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "com.github.TheodorSergeev.epfl_softeng_bootcamp"
-        minSdkVersion 16
+        minSdkVersion 24
         //noinspection OldTargetApi
         targetSdkVersion 29
         versionCode 1
